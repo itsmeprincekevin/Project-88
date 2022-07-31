@@ -1,0 +1,20 @@
+
+
+.body_background{
+    background-position: center;
+    background-size: contain;
+    background:url("https://ak.picdn.net/offset/photos/5f6ca8efa75ca0db370a28ed/medium/offset_1007027.jpg");
+
+}
+
+#myCanvas{
+    border-width:10px;
+    border-style:ridge;
+    background-color:forestgreen;
+}
+#hd3{
+    display:inline-block;
+    color:red;
+    background-color:aliceblue;
+    font-family:fantasy;
+}
